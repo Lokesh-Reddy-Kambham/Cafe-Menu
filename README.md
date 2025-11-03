@@ -16,7 +16,7 @@ A modern personal business card design showcasing basic layout and styling.
 
 ### ☕ **Café Menu**  
 A creative café menu layout demonstrating structured typography and aesthetic design.  
-[![View Demo](https://img.shields.io/badge/Live_Demo-Cafe_Menu-blue?style=for-the-badge&logo=githubpages)](https://lokesh-reddy-kambham.github.io/Frontend-Playground/Cafe-menu/)
+[![View Demo](https://img.shields.io/badge/Live_Demo-Cafe_Menu-blue?style=for-the-badge&logo=githubpages)](https://lokesh-reddy-kambham.github.io/Frontend-Playground/Cafe-Menu/)
 
 ---
 
